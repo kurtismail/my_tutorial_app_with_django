@@ -30,7 +30,7 @@ const AddTutorial = ({ getTutorials }) => {
       <form onSubmit={handleSubmit}>
         <div className="mb-3">
           <label htmlFor="title" className="form-label">
-            Title
+            Title:
           </label>
           <input
             type="text"
@@ -44,7 +44,7 @@ const AddTutorial = ({ getTutorials }) => {
         </div>
         <div className="mb-3">
           <label htmlFor="desc" className="form-label">
-            Description
+            Description:
           </label>
           <input
             type="text"

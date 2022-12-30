@@ -12,7 +12,3 @@
 - DELETE `api/tutorials` remove all Tutorials
 - GET `api/tutorials/published` find all published Tutorials
 - GET `api/tutorials?title=[keyword]` find all Tutorials which title contains 'keyword'
-
-# Deployed Frontend
-
-## https://axios-example.netlify.app/
